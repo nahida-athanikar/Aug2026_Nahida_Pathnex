@@ -1,0 +1,5 @@
+# todays task completed 
+1) 2 hours Ec2 with linux command practice again.
+2) 1 hours revise my notes -> linux command.
+3) 30 min i resolved my some doubts on chatgpt like why we use EC2, whats benefits, how AWS ec2 store our file on his server. 
+4) 30 min listing english podcast.
