@@ -1,0 +1,16 @@
+# Todays completed task
+1) 2 hours practice Linux commands in local
+2) 2 hours practice Ec2 instance by using linux
+3) 1 hour revise theory and made notes for todays session
+4) 30 min Reading Newspaper
+5) 30 min Watching English Stories
+6) 1 hour i stuck in make autherised key how to use public and private key so finnaly with the help of Chatgpt i solved this and practiced again
+7) 30 min watched Bash scripting video.
+
+
+
+# Tomorrow task :
+1) complete Bash Scripting
+2) 1 hour revise theory and making notes for todays session
+3) 30 min Reading Newspaper
+4) 30 min Watching English Stories
