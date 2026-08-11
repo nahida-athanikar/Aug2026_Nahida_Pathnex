@@ -1,0 +1,21 @@
+# Todays completed task:
+3 hours watch live session Docker
+1 hours makes notes on Docker
+1 hour revised bash scripting
+2 hour revise AWS concepts
+30 min reading practice
+30 min Speaking practice
+30 min made self Intro video
+
+# Tommorow task:
+3 hours watch tommorows live session
+1 hours makes notes
+1 hours revise Linux Commands
+1.5 hours practice Ec2 with linux
+30 min reading practice
+30 min Speaking practice
+30 min made self intro
+
+ 
+
+
