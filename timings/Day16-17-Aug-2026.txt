@@ -1,0 +1,16 @@
+# Todays completed task:
+3 hours watch bash scripting video with practice
+1 hours practice Linux Commands
+2 hours revise and practice with Docker, kubernetes
+30 min reading practice
+30 min made self intro
+
+
+# Tommorow task:
+3 hours live session on Argo
+1 hours makes notes 
+1 hours practice EC2 with Linux
+2 hours revise and practice with Docker, kubernetes
+30 min reading practice
+30 min made self intro
+
