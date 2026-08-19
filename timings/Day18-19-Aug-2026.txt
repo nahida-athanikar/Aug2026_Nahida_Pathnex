@@ -1,0 +1,17 @@
+# Todays completed task:
+3 hours watch ArgoCD video with practice
+2 hours practice Docker
+2 hours revise and practice with Docker, kubernetes
+30 min reading practice
+30 min made self intro
+
+
+# Tommorow task:
+3 hours live session
+1 hours makes notes 
+1 hours practice helm
+2 hours revise and practice with Docker, kubernetes
+30 min reading practice
+30 min made self intro
+
+
