@@ -1,0 +1,17 @@
+# Todays completed task:
+3 hours watch terraform video with practice
+2 hours practice Docker, AWS
+2 hours revise and practice with kubernetes
+30 min reading practice
+30 min listening podcast
+10 min made self intro
+
+
+# Tommorow task:
+3 hours live session on Terraform
+1 hours makes notes 
+1 hours practice helm with kubernetes
+2 hours revise and practice with Docker, kubernetes
+30 min reading newspaper
+30 min speaking practice on JOSH TAlk
+10 min made self intro
