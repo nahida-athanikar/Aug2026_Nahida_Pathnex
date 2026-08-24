@@ -1,0 +1,17 @@
+# Todays Task:
+3 hours watch ansible video with practice
+2 hours revised interview questions on Terraform
+2 hours revise and practice with kubernetes
+30 min reading Newspaper
+30 min Speaking practice on Josh talk
+10 min made self intro
+
+
+# Tommorow task:
+3 hours live session 
+1 hours makes notes
+1 hours practice helm with kubernetes
+2 hours revise and practice with Docker, kubernetes
+30 min reading newspaper
+30 min speaking practice on JOSH TAlk
+10 min made self intro
