@@ -1,0 +1,18 @@
+#Todays task :-
+4 hours watch gitlab, CI/CD, Jenkin lecture with practice
+1 hours revise AWS session
+1 hours make notes on todays session
+1 hour practice ec2 instance with Linux
+1 hour use chatgpt to resolve my errors
+10 min for making Self intro video
+20 min reading newspaper
+20 min listening English story
+
+
+#Tomorrow Task :-
+2 hours watch Ansible last month of july video
+3 Hours revise Docker, Kubernetes, Ansible, Helm all concepts
+1 hours practice with helm
+30 min reading newspaper
+20 min listening English story
+1 hours for making Self intro video
