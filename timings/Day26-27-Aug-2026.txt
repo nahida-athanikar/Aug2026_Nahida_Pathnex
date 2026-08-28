@@ -1,0 +1,17 @@
+#Todays Task:
+4 hours watch Kafka video with practice
+2 hours revised interview questions on kubernetes with argoCD
+2 hours revise and practice with grafana, 
+30 min reading Newspaper
+30 min Speaking practice on Josh talk
+10 min made self intro
+
+
+# Tommorow task:
+3 hours live session SSL/TLS
+1 hours makes notes
+2 hours practice kubernetes with helm
+2 hours revise and practice with AWS
+30 min reading newspaper
+30 min speaking practice
+10 min made self intro
