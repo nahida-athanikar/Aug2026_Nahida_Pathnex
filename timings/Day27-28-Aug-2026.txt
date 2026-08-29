@@ -1,0 +1,17 @@
+#Todays Task:
+4 hours watch SSL/TLS video with practice
+2 hours revised interview questions on kubernetes
+2 hours revise and practice with ci/cd, gitLab, jenkin
+30 min reading Newspaper
+30 min Speaking practice on Josh talk
+10 min made self intro
+
+
+# Tommorow task:
+3 hours live session 
+1 hours makes notes
+2 hours practice ELK , Datadog, grafana, prometheus
+2 hours revise and practice with Docker, kubernetes
+30 min reading newspaper
+30 min speaking practice
+10 min made self intro
